@@ -1,0 +1,164 @@
+ #logo {
+     width: 200px;
+ }
+
+ .container {
+     background-color: #c71585;
+ }
+
+ .container {
+     padding: 2%;
+ }
+
+ .d-flex {
+     display: flex;
+ }
+
+ .justify-between {
+     justify-content: space-between;
+ }
+
+ nav {
+     width: 35%;
+ }
+
+ header a {
+     text-decoration: none;
+ }
+
+ header li a {
+     color: rgb(255, 255, 255);
+ }
+
+ header li:hover {
+     opacity: 0.6;
+ }
+
+ #feri1 {
+     color: rgb(255, 204, 0);
+ }
+
+ #feri2 {
+     color: rgb(255, 204, 0);
+ }
+
+ footer p {
+     color: rgb(255, 255, 255);
+ }
+
+ .social {
+     width: 40px;
+ }
+
+ #about {
+     border: 3px solid rgb(255, 204, 0);
+     border-radius: 10px;
+     padding: 30px;
+     width: 800px;
+     margin: auto;
+ }
+
+ #me {
+     font-size: medium;
+ }
+
+ #contact {
+    border: 3px solid rgb(255, 204, 0);
+    border-radius: 10px;
+    padding: 30px;
+    width: 800px;
+    margin: auto; 
+ }
+
+ h1{
+    color: #c71585;
+    font-weight: bolder;
+ }
+
+ .text {
+    color: #371F76
+ }
+
+#gogo {
+    width: 500px;
+    height: 600px;
+
+    display: block;
+    margin: auto;
+}
+
+#hob {
+    width: 350px;
+    height: 350px;
+}
+
+.hobby {
+display:flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+}
+
+#fotochka {
+    width: 400px;
+    height: 400px;
+}
+
+.section {
+    width: 45%;
+}
+
+.div_img {
+    display: flex;
+    gap: 60px;
+}
+
+#example {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.div_img {
+   text-align: center;
+}
+
+h1{
+    font-weight: bold;
+    color: #c71585;
+}
+    
+
+body {
+    background-color: antiquewhite;
+}
+
+section p {
+    color: #371F76;
+}
+
+#works {
+    width: 500px;
+}
+
+.works {
+    padding: 0 30%;
+}
+
+.register {
+    padding-left: 50px
+}
+
+#madloba {
+    width: 500px;
+}
+
+.madloba {
+    padding: 0 30%;
+}
+
+.socialuri {
+    padding: 0 47%;
+}
+
+.align-centre {
+    align-items: center;
+}
